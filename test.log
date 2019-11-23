@@ -1,0 +1,5 @@
+WARNING:root:this a message of warning
+INFO:root:this a message of info
+DEBUG:root:this message go to log
+INFO:root:too
+WARNING:root:And too
